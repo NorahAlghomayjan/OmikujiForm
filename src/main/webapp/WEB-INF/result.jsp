@@ -16,7 +16,7 @@
 		<div class="box p-5">
 			<p class="fs-6"><c:out value="${output}"/> </p>
 		</div>
-		<a href="/">Go back</a>
+		<a href="/omikuji">Go back</a>
 	
 	</div>
 </body>

@@ -14,7 +14,7 @@
 	<div class="container mx-auto mt-5 align-items-center row">
 		<h1 class="text-center"> Send an Omikuji..</h1>
 		<div class="text-center">
-			<form action="/show" method="post" class="form-group">
+			<form action="/omikuji/result" method="post" class="form-group">
 			
 				<label class="m-1 ">pick any number from 5-25:</label>
 				<div class="w-100"></div>
